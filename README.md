@@ -4,6 +4,9 @@
 ![DQN](images/dqn.png)
 
 ## DQN with Priortized Experience Replay
-![DQN](images/dqn-per.png)
+![DQNPER](images/dqn-per.png)
+
+## DQN with Random Incentive Replay
+![DQN-RIRM](images/random-irm.png)
 
 # Atari DQN and Incentive Replay Results Breakout
