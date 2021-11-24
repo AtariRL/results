@@ -10,4 +10,7 @@ Updated every 100th episode - need to add points every episode to match others
 ## DQN with Random Incentive Replay
 ![DQN-RIRM](images/random-irm.png)
 
+## DQN with Highest Error IRM
+![DQN-HE](images/highest_error_irm_pong.png)
+
 # Atari DQN and Incentive Replay Results Breakout
