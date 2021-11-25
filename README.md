@@ -13,4 +13,9 @@ Updated every 100th episode - need to add points every episode to match others
 ## DQN with Highest Error IRM
 ![DQN-HE](images/highest_error_irm_pong.png)
 
+# Atari Dueling DQN and Incentive Replay Results Pong
+
+## DQN with Experience Replay
+![DUEL-DQN](images/dueling_vanilla_dqn.png)
+
 # Atari DQN and Incentive Replay Results Breakout
