@@ -15,7 +15,7 @@ Updated every 100th episode - need to add points every episode to match others
 
 # Atari Dueling DQN and Incentive Replay Results Pong
 
-## DQN with Experience Replay
+## Dueling DQN with Experience Replay
 ![DUEL-DQN](images/dueling_vanilla_dqn.png)
 
 # Atari DQN and Incentive Replay Results Breakout
